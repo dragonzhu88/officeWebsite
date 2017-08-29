@@ -73,7 +73,7 @@ img.alignleft{margin-right:25px}
 img.alignright{margin-left:25px}
 ul{padding-bottom:20px}
 ul li:before{font-family:'fontello';content:"\e78b";font-style:normal;font-weight:normal;speak:none;display:inline-block;text-decoration:inherit;font-size:13px;padding-right:8px;color:#ff6760;}
-##yy_plk{letter-spacing:0px;}
+#yy_plk{letter-spacing:0px;}
 #yy_plk ul li:before{color:#fff;font-family:'fontello';content:none;font-style:normal;font-weight:normal;speak:none;display:inline-block;text-decoration:inherit;font-size:13px;padding-right:8px;color:#ff6760;}
 #kkiop{margin-top:30px;}
 #kkiop li{padding-top:0px;margin-bottom:15px;}
